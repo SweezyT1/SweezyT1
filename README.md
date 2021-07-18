@@ -1,4 +1,4 @@
-### <div align="center">I'm Kabir Singh aka Tech Boy Gaming, </div>  
+### <div align="center">Hi, my name is Sweezy, I am a programmer with 2 complete courses., </div>  
   
 
 - 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
