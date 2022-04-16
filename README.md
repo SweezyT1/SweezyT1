@@ -8,3 +8,10 @@
   <a href="https://discord.com/users/852580927665209376" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/852580927665209376?bg=1f1f1f&borderRadius=5px" alt="Discord Status"/>
 </p>
+
+<img align="center" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="center" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
+<img align="center" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="center" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
+<img align="center" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" /> 
+<img align="center" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
