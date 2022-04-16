@@ -4,10 +4,10 @@
 <div align= "center"> - 🌱 I’m currently coding in Javascript   and CSS and HTML</div>
 <div align= "center"> - ❓  Add me to discord if you want some help</div>
 
+
 <p align="center">
   <a href="https://discord.com/users/852580927665209376" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/852580927665209376?bg=1f1f1f&borderRadius=5px" alt="Discord Status"/>
-
 </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
