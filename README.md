@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B1F7E2&lines=Hi%2C+my+name+Sweezy+niskii)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B1F7E2&lines=Hi,%2C+my+name+is+Sweezy)](https://git.io/typing-svg)
 ### <div align="center">Hi, my name is Sweezy, I am a programmer with 2 complete courses., </div>  
   
 
