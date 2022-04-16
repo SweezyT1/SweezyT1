@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/852580927665209376" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/847865068657836033?bg=1f1f1f&borderRadius=5px" alt="Discord Status"/>
+    <img src="https://lanyard.cnrad.dev/api/852580927665209376?bg=1f1f1f&borderRadius=5px" alt="Discord Status"/>
     </a>
 	<a href="https://github.com/Niskii3?tab=repositories" target="_blank">
           <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niskii3&theme=dark&hide_border=true&layout=compact&langs_count=5" alt="Github Languages" />
