@@ -7,7 +7,7 @@
 - 🌱 I’m currently coding in Javascript   and CSS and HTML..
   
 
-- ❓  Add me to discord if you want some help. My discord is *Sweezy#0110*
+- ❓  Add me to discord if you want some help. My discord is *Sweezy#8153*
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
