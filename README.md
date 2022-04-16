@@ -11,9 +11,9 @@
   
 <p align="center">
 <a href="https://www.javascript.com">
-    <img src="https://i.imgur.com/3u1wzwE.png" alt="JavaScript" width="80"/>
+    <img src="https://i.imgur.com/3u1wzwE.png" alt="JavaScript" width="40"/>
   </a>
 <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
-    <img src="https://i.imgur.com/LwSdAlE.png" alt="Discord" width="80"/>
+    <img src="https://i.imgur.com/LwSdAlE.png" alt="Discord" width="40"/>
   </a>
 </p>
