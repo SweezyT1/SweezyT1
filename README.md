@@ -5,7 +5,7 @@
 <div align= "center"> - ❓  Add me to discord if you want some help</div>
 
 <p align="center">
-  <a href="https://discord.com/users/847865068657836033" target="_blank">
+  <a href="https://discord.com/users/852580927665209376" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/847865068657836033?bg=1f1f1f&borderRadius=5px" alt="Discord Status"/>
     </a>
 	<a href="https://github.com/Niskii3?tab=repositories" target="_blank">
