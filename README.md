@@ -15,3 +15,12 @@
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
 <img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+
+<p align="center">
+<a href="https://www.javascript.com">
+    <img src="https://i.imgur.com/3u1wzwE.png"/>
+  </a>
+<a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+    <img src="https://i.imgur.com/LwSdAlE.png" alt="Discord" width="80"/>
+  </a>
+</p>
