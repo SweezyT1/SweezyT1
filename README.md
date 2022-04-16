@@ -1,7 +1,7 @@
 ### <div align="center">Hi, my name is Sweezy, I am a programmer with 2 complete courses., </div>  
   
 
-- 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
+<div align= "center"> - 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot </div>
   
 
 - 🌱 I’m currently coding in Javascript   and CSS and HTML..
