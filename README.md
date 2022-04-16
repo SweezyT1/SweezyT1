@@ -2,7 +2,7 @@
 
 <div align= "center"> - 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot </div>
 <div align= "center"> - 🌱 I’m currently coding in Javascript   and CSS and HTML.. </div>
-<div align= "center"> - ❓  Add me to discord if you want some help. My discord is *Sweezy#8153* </div>
+<div align= "center"> - ❓  Add me to discord if you want some help</div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
