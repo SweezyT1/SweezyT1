@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B1F7E2&lines=Hi,%2C+my+name+is+Sweezy)](https://git.io/typing-svg)
-### <div align="center">Hi, my name is Sweezy, I am a programmer with 2 complete courses., </div>  
-  
+### <div align="center">Hi, my name is Sweezy</div>  
 
 <div align= "center"> - 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot </div>
 <div align= "center"> - 🌱 I’m currently coding in Javascript   and CSS and HTML.. </div>
